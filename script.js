@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Yorg3.io Mod Injector
-// @namespace http://tampermonkey.net/
+// @namespace https://github.com/TristonStuart/Yorg3ModInjector/tree/master
 // @version 1.3
 // @description Inject mods into yorg3.io
 // @author TDStuart
